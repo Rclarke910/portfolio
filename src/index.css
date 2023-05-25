@@ -2,15 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Gloock&family=Limelight&family=Merriweather:wght@300&family=Rye&display=swap');
 
 @layer base {
-    body{
-        @apply font-[Raleway];
-    }
     
     li {
         @apply px-4;
         @apply cursor-pointer;
     }
 }
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
