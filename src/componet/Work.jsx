@@ -26,11 +26,11 @@ const Work = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://calm-puffpuff-49e84e.netlify.app/" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/Rclarke910/Hobbs-cafe.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Code </button>
                             </a>
@@ -47,11 +47,11 @@ const Work = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://lively-praline-d09356.netlify.app/" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/Rclarke910/KlassicKicks.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Code </button>
                             </a>
@@ -68,11 +68,11 @@ const Work = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://sage-meringue-df08b9.netlify.app/" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/Rclarke910/fitness.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Code </button>
                             </a>
@@ -89,11 +89,11 @@ const Work = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://relaxed-lolly-621db3.netlify.app/" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/Rclarke910/real-estate-app.git" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Code </button>
                             </a>
