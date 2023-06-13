@@ -89,7 +89,7 @@ const Work = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://relaxed-lolly-621db3.netlify.app/" target='_blank'>
+                            <a href="https://real-estate-app-nu-seven.vercel.app" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2
                                  bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
